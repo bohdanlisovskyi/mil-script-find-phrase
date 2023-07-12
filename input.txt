@@ -1,0 +1,8 @@
+дата, час, частота
+Lorem ipsum dolor sit amet consectetur adipiscing elit montes potenti, mollis pulvinar nostra nullam aenean ante fames placerat, vehicula porttitor accumsan mi maecenas nisi vel habitant.
+
+дата, час, частота
+Fringilla sollicitudin per erat dictumst nascetur scelerisque sociosqu nullam ornare placerat volutpat euismod, rhoncus penatibus cras nostra arcu mi convallis vivamus diam commodo sodales
+
+дата, час, частота
+Lorem ipsum dolor sit amet consectetur adipiscing elit montes potenti, mollis pulvinar nostra nullam aenean ante fames placerat, vehicula porttitor accumsan mi maecenas nisi vel habitant.
